@@ -1,0 +1,9 @@
+@media screen and (max-width:600px){
+    .navbar_menu{
+        display:block;
+    }
+    .navbar_links{
+        display: none;
+    }
+    
+}
